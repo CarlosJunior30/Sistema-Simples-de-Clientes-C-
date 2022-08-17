@@ -1,0 +1,8 @@
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\bin\Debug\projeto 2.exe.config
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\bin\Debug\projeto 2.exe
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\bin\Debug\projeto 2.pdb
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\obj\Debug\Sistema de CLientes.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\obj\Debug\Sistema de CLientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\obj\Debug\Sistema de CLientes.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\obj\Debug\projeto 2.exe
+C:\Users\carlos junior\source\repos\projeto 2\projeto 2\obj\Debug\projeto 2.pdb
